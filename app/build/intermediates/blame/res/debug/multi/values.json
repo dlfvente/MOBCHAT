@@ -1,5 +1,126 @@
 [
     {
+        "outputFile": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 39,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 38,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 38,
+                        "endOffset": 219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 40,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 40,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 39,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 39,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 47,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 47,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 65,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 477
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {

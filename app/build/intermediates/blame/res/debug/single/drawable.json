@@ -8,6 +8,18 @@
         "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\drawable\\kitchen2.jpg"
     },
     {
+        "merged": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape3_right.xml",
+        "source": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\drawable\\shape3_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kitchen1.jpg",
+        "source": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\drawable\\kitchen1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_repairs.jpg",
+        "source": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\drawable\\logo_repairs.jpg"
+    },
+    {
         "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape3_left.xml",
         "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\drawable\\shape3_left.xml"
     },
@@ -20,8 +32,24 @@
         "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\drawable\\logo_repairs.jpg"
     },
     {
+        "merged": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kitchen3.jpg",
+        "source": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\drawable\\kitchen3.jpg"
+    },
+    {
         "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kitchen3.jpg",
         "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\drawable\\kitchen3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backyard_bicycle.png",
+        "source": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\drawable\\backyard_bicycle.png"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape2_normal.xml",
+        "source": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\drawable\\shape2_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kitchen2.jpg",
+        "source": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\drawable\\kitchen2.jpg"
     },
     {
         "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kitchen4.jpg",
@@ -36,7 +64,19 @@
         "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\drawable\\shape2_normal.xml"
     },
     {
+        "merged": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape2_date_hour.xml",
+        "source": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\drawable\\shape2_date_hour.xml"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kitchen4.jpg",
+        "source": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\drawable\\kitchen4.jpg"
+    },
+    {
         "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kitchen1.jpg",
         "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\drawable\\kitchen1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape3_left.xml",
+        "source": "C:\\Users\\guillermopdl\\Documents\\GitHub\\MOBCHAT\\app\\src\\main\\res\\drawable\\shape3_left.xml"
     }
 ]
