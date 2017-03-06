@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="450561528198814"
+    token="702309763692677330" >
+
+    <task
+        name="javac"
+        duration="284" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="447871602319097" >
+        <artifact
+            location="C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="449693234081361"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="450561528198814" >
+        <artifact
+            location="C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

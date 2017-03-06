@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main1.xml",
+        "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\layout\\main1.xml"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row3_right.xml",
+        "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\layout\\row3_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main2.xml",
+        "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\layout\\main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row1_onetextview.xml",
+        "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\layout\\row1_onetextview.xml"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row2_customized_image_text_button.xml",
+        "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\layout\\row2_customized_image_text_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row2_customized_date_hour.xml",
+        "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\layout\\row2_customized_date_hour.xml"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row3_left.xml",
+        "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\layout\\row3_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main3.xml",
+        "source": "C:\\Users\\guillermopdl\\StudioProjects\\_2_1_AdapterViews\\app\\src\\main\\res\\layout\\main3.xml"
+    }
+]

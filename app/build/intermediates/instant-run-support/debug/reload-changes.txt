@@ -1,0 +1,12 @@
+CHANGED,C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\upc\adapterviews\Activity1$override.class
+CHANGED,C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\upc\adapters\MyAdapter3$override.class
+CHANGED,C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\upc\adapterviews\R$style$override.class
+CHANGED,C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\upc\adapterviews\R$layout$override.class
+CHANGED,C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\upc\adapterviews\Activity0$override.class
+CHANGED,C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\upc\adapters\MyAdapter2$override.class
+CHANGED,C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\upc\adapterviews\Activity2$override.class
+CHANGED,C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\upc\adapterviews\Activity3$override.class
+CHANGED,C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\upc\adapters\MyAdapter1$override.class
+CHANGED,C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\upc\adapterviews\R$id$override.class
+CHANGED,C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\upc\adapterviews\R$string$override.class
