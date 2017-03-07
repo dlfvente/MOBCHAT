@@ -6,19 +6,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/backyard_bicycle">
-    
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="10dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginBottom="10dp"
-        android:textColor="@color/black"
-        android:textSize="28dp"
-        android:rotationX="45"
-        android:text="Conversation:" />
-    
-        
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:layout_width="64dp"
+        android:layout_height="68dp"
+        android:background="@drawable/logo_repairs"
+        android:layout_gravity="center_horizontal" />
+
     <ListView android:id="@+id/main3ListView"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
@@ -29,39 +30,43 @@
         android:layout_centerHorizontal="true"
         android:cacheColorHint="@android:color/transparent"
         android:divider="@android:color/transparent"
-        android:dividerHeight="4dp"/>   
+        android:dividerHeight="4dp"/>
 
-    
-    <LinearLayout 
-        android:layout_width="wrap_content"
+
+    <LinearLayout
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
         android:layout_marginBottom="20dp"
         android:layout_marginTop="20dip"
-        android:background="@color/grey">
-    
+        android:background="@color/grey"
+        android:weightSum="1">
+
         <EditText
             android:id="@+id/input"
-            android:layout_width="200dip"
-            android:layout_height="50dip"
-            android:paddingLeft="4dp"
-            android:hint="Type text here"
-            android:background="@color/grey"
-            android:textColor="@color/orange"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="  ............."
+            android:background="@color/white"
+            android:textColor="@android:color/darker_gray"
             android:inputType="textNoSuggestions|textVisiblePassword"
-            android:text="" />
+            android:layout_weight="1" />
 
         <Button
             android:id="@+id/mybutton"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
             android:onClick="addText"
-            android:text="Send"/>
-    
-    </LinearLayout> 
-    
+            android:gravity="fill"
+            android:background="@drawable/send"
+
+
+           android:text="Send"/>
+
+    </LinearLayout>
+
 </LinearLayout>
-  
+
 
 
 
