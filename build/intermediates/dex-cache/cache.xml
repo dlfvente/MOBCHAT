@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\guillermopdl\Documents\GitHub\MOBCHAT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="06f087902659436ab9194b03020dfb601ba6a12d">
+        <dex dex="C:\Users\guillermopdl\Documents\GitHub\MOBCHAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9bec103fe05fb6837a6afccf9b688fa1a07a7dc7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\guillermopdl\Documents\GitHub\MOBCHAT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="378b5cb09cb46427f6f7e828ff4490c2af423227">
+        <dex dex="C:\Users\guillermopdl\Documents\GitHub\MOBCHAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7af40fd59890f9c7dcf53cf6059109fb94eb75a8\classes.dex" />
+    </item>
+
+</items>

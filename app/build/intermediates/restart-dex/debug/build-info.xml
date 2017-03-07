@@ -4,12 +4,12 @@
     api-level="22"
     density="hdpi"
     format="7"
-    timestamp="450561528198814"
-    token="702309763692677330" >
+    timestamp="535364179219556"
+    token="7061404087451814554" >
 
     <task
         name="javac"
-        duration="284" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -21,27 +21,17 @@
         duration="0" />
 
     <artifact
-        location="C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\res\resources-debug.ap_"
+        location="C:\Users\guillermopdl\Documents\GitHub\MOBCHAT\app\build\intermediates\res\resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="447871602319097" >
+    <build timestamp="535240917892258" >
         <artifact
-            location="C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\guillermopdl\Documents\GitHub\MOBCHAT\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="449693234081361"
-        verifier="R_CLASS_CHANGE" >
+    <build timestamp="535364179219556" >
         <artifact
-            location="C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="450561528198814" >
-        <artifact
-            location="C:\Users\guillermopdl\StudioProjects\_2_1_AdapterViews\app\build\intermediates\res\resources-debug.ap_"
+            location="C:\Users\guillermopdl\Documents\GitHub\MOBCHAT\app\build\intermediates\res\resources-debug.ap_"
             type="RESOURCES" />
     </build>
 
