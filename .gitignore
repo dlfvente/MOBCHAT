@@ -1,0 +1,18 @@
+#################
+## Eclipse
+#################
+
+.gradle/
+.idea/
+build/
+gradle/
+_2_1_AdapterViews.iml
+build.gradle
+gradlew
+import-summary
+local.properties
+MOBCHAT.iml
+settings.gradle
+app/build/
+app/app.iml
+app/build.gradle
