@@ -12,10 +12,11 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="290dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="85dp"
         android:paddingLeft="10dp"
-        android:paddingRight="10dp">
+        android:paddingRight="10dp"
+        android:layout_weight="0.12">
 
         <ImageView
             android:layout_width="124dp"
@@ -28,9 +29,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="Chatty"
+            android:text="MOBCHAT"
             android:id="@+id/textView"
-            android:layout_gravity="center_horizontal" />
+            android:layout_gravity="center_horizontal"
+            android:textStyle="bold"
+            android:typeface="sans"
+            android:textSize="24dp"
+            android:layout_marginBottom="20dp"
+            android:textColor="#ffffff" />
 
         <EditText
             android:layout_width="match_parent"
